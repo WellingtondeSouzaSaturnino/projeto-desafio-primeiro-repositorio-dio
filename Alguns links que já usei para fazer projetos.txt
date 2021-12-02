@@ -1,0 +1,20 @@
+Este link é ótimo para pegar imagens e descrições de filmes e filmes de animes.
+link:https://www.themoviedb.org/?language=pt-BR
+
+
+Site com diverços tipos de carrosel para front end
+link: https://owlcarousel2.github.io/OwlCarousel2/
+
+Este site tem muito coisa que podemos usar na criação front end
+link:https://getbootstrap.com/
+
+Tabela de cores para HTML
+link:https://www.homehost.com.br/blog/tutoriais/tabela-de-cores-html/
+
+Link para download do JQuery
+link:https://jquery.com/download/
+
+
+
+
+
